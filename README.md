@@ -1,4 +1,5 @@
-# day12
+# day13
+
 ```
 s = input('请输入一个字符串：')
 if not s:
