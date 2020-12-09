@@ -35,3 +35,8 @@ else:
     print('您所输入的字符串不是回文')
     ```
     https://www.taiwancodeschool.com/single-post/2018/09/05/Python-for-while
+```
+break
+```
+
+
